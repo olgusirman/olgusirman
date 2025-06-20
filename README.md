@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm Olgu SIRMAN 🦦
+# 👋 Hi there, I'm Olgu SIRMAN
 
 I'm a passionate **Senior iOS Developer** and **Frontend Developer** based in the UK 🇬🇧, with over 8 years of experience delivering high-quality mobile and web applications across industries like **e-commerce**, **fintech**, and **retail**.
 
@@ -23,7 +23,7 @@ I'm a passionate **Senior iOS Developer** and **Frontend Developer** based in th
 ```swift
 iOS        | Swift, UIKit, SwiftUI, Combine, XCTest, Swift Testing
 Frontend   | React, TypeScript, Redux, Next.js, Context API, Jest
-Design     | Figma, Tailwind, Storybook
+Design     | Human Interface Guideline, Figma, Tailwind, Storybook
 ```
 
 ---
