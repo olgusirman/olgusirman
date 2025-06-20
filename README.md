@@ -1,16 +1,35 @@
-## Hi there 👋
+# 👋 Hi there, I'm Olgu SIRMAN
 
-<!--
-**olgusirman/olgusirman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate **iOS Developer** and **Frontend Developer** based in the UK 🇬🇧, with over 8 years of experience delivering high-quality mobile and web applications across industries like **e-commerce**, **fintech**, and **retail**.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 What I Do
+
+### 📱 iOS Development
+- Built and maintained apps with **millions of downloads** (e.g. [Costa Coffee Club](https://apps.apple.com/gb/app/costa-coffee-club/id578627826))
+- Strong focus on performance, clean architecture (MVVM-C), testing and App Store delivery
+- Experience with **Swift**, **UIKit**, **Combine**, **CoreData**, **SwiftUI**, and custom **CI/CD** pipelines
+- I’m also a huge fan of **RxSwift**, using reactive patterns to write clean, declarative, and highly maintainable code in complex applications.
+
+### 💻 React / Frontend Development
+- Developed and maintained scalable admin panels and dashboards
+- Applied modern design patterns (e.g. Smart/Dumb Components, HOCs, Custom Hooks)
+- React ecosystem expert: **React**, **TypeScript**, **Next.js**, **Redux**, **Jest**, and performance optimisations
+
+---
+
+## 🧰 Tech Stack
+```swift
+iOS        | Swift, UIKit, SwiftUI, Combine, XCTest, Swift Testing
+Frontend   | React, TypeScript, Redux, Next.js, Context API, Jest
+Design     | Figma, Tailwind, Storybook
+```
+
+---
+
+## 💬 Let's Connect
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/olgusirman)
+- 🌐 [Portfolio Website](https://v0-ios-portfolio-website-olgusirman-4502s-projects.vercel.app)
+- 📫 Email: `olgusirman@gmail.com`
